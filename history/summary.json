@@ -22,36 +22,40 @@
     "url": "https://panel.hyper-hub.nl",
     "icon": "https://icons.duckduckgo.com/ip3/panel.hyper-hub.nl.ico",
     "slug": "game-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 354,
     "timeDay": 354,
     "timeWeek": 354,
     "timeMonth": 354,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Mijn-HyperHub",
     "url": "https://my.hyper-hub.nl",
     "icon": "https://icons.duckduckgo.com/ip3/my.hyper-hub.nl.ico",
     "slug": "mijn-hyper-hub",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 312,
     "timeDay": 312,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Status Page",
