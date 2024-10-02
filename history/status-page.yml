@@ -1,7 +1,7 @@
 url: https://status.hyper-hub.nl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-02T15:41:07.411Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2024-10-02T15:52:26.272Z
 startTime: 2024-09-10T19:11:33.580Z
 generator: Upptime <https://github.com/upptime/upptime>
