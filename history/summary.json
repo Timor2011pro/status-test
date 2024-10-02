@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.hyper-hub.nl.ico",
     "slug": "game-panel",
     "status": "up",
-    "uptime": "86.96%",
+    "uptime": "87.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.96%",
-    "uptimeYear": "86.96%",
+    "uptimeMonth": "87.31%",
+    "uptimeYear": "87.31%",
     "time": 630,
     "timeDay": 643,
     "timeWeek": 653,
@@ -48,11 +48,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.hyper-hub.nl.ico",
     "slug": "mijn-hyper-hub",
     "status": "up",
-    "uptime": "81.35%",
+    "uptime": "81.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.35%",
-    "uptimeYear": "81.35%",
+    "uptimeMonth": "81.86%",
+    "uptimeYear": "81.86%",
     "time": 565,
     "timeDay": 555,
     "timeWeek": 660,
@@ -75,7 +75,7 @@
     "url": "https://status.hyper-hub.nl",
     "icon": "https://icons.duckduckgo.com/ip3/status.hyper-hub.nl.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,6 +86,8 @@
     "timeWeek": 1006,
     "timeMonth": 905,
     "timeYear": 905,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   }
 ]
